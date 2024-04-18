@@ -54,14 +54,9 @@ import 'firebase/compat/storage';
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAZ6lGynphioMsozlDNtB_WxEv21T2TomU",
-  authDomain: "faceattendancesystem-64e2c.firebaseapp.com",
-  databaseURL: "https://faceattendancesystem-64e2c-default-rtdb.firebaseio.com",
-  projectId: "faceattendancesystem-64e2c",
-  storageBucket: "faceattendancesystem-64e2c.appspot.com",
-  messagingSenderId: "133860523517",
-  appId: "1:133860523517:web:a65637261c0e1c1863ad94",
-  measurementId: "G-MNYED7NWPJ"
+  
+
+  
 };
 
 // Initialize Firebase
